@@ -1,0 +1,1 @@
+el usuario Hogares Claret Super Administrador fue usado para testear el sistema de informacion, su contraseñá es 123456789
